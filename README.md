@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SissetRM
+- 👀 I’m interested in anime and video games.
+- 🌱 I’m currently learning python
+- 😄 Pronouns: He/Him
