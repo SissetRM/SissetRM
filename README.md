@@ -42,7 +42,7 @@ Projects showcasing real data analysis skills.
 - SQL (joins, window functions, CTEs)
 - Excel (PowerQuery, pivot tables, advanced formulas, DAX)
 - Tableau (interactive dashboards)
-- PowerBI (Visualisation)
+- Power BI (Visualisation)
 - Data cleaning, wrangling, EDA, storytelling
 
 ### Tools
@@ -59,7 +59,7 @@ All my certificates are stored in `/certificates`.
 ---
 
 ## CV & Contact
-My CV is located in `/about`.
+My CV and portfolio are located in the repository.
 
 - Email: alexanderjsainsbury@gmail.com 
 - LinkedIn:  https://www.linkedin.com/in/alexander-sainsbury/
