@@ -13,7 +13,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-A results-driven Data Analyst with a BSc in Physics from the University of Nottingham. I enjoy working with real-world datasets, performing analysis, and visualising results to support data-driven decision-making.
+A results-driven Data Analyst with a BSc in Physics from the University of Nottingham and hands-on experience developing ETL pipelines. I enjoy working with real-world datasets, performing analysis, and visualising results to support data-driven decision-making.
 </p>
 
 <h2 align="center">Tools & Skills</h2>
